@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harisudhan S</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://aloa.co/blog/7-most-influential-ai-developer-tools">
+<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/6344c9cef89d6f2270a38908/64d6bd51ab17a00828b644bf_header-p-800.webp">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harisudhan5&label=Profile%20views&color=0e75b6&style=flat" alt="harisudhan5" /> </p>
 
