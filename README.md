@@ -8,12 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harisudhan5" alt="harisudhan5" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning**
-
-- 🌱 I’m currently learning **Tensorflow**
-
-- 💬 Ask me about **Machine Learning**
-
 - 📫 How to reach me **speaktoharisudhan@gmail.com**
 
 <!-- ### Blogs posts -->
